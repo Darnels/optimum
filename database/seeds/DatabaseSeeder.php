@@ -23,7 +23,7 @@ class DatabaseSeeder extends Seeder
                 'name' => 'Sidoine Aké',
                 'password' => bcrypt('leandre')
             ],[
-                'email' => 'admin@bosson.fr',
+                'email' => 'jk.bosson@betaentreprises.com',
                 'name' => 'BOSSON',
                 'password' => bcrypt('bosson')
             ],
